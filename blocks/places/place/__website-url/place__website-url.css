@@ -1,0 +1,6 @@
+.place__website-url {
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    margin: 0 0 2.9rem 2.4rem;
+}
