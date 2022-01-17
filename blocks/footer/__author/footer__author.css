@@ -5,9 +5,8 @@
     margin: 0;
     align-self: center;
 }
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 767px)  and (min-width: 321px) {
     .footer__author {
         align-self: start;
-        margin-bottom: 24px;
     }
 }

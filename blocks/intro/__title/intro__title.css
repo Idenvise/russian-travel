@@ -18,3 +18,10 @@
      font-size: 40px;
     }
 }
+
+@media screen and (max-width: 319px) {
+    .intro__title {
+     font-size: 30px;
+     width: 80%;   
+    }
+}

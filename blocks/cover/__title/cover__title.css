@@ -16,7 +16,7 @@
 }
 @media screen and (max-width: 319px) {
     .cover__title {
-        font-size: 28px;
+        font-size: 25px;
         width: 250px;
     }
 }

@@ -9,3 +9,8 @@
         margin: 0 0 32px 0;
     }
 }
+@media screen and (max-width: 320px) {
+    .place__website-url {
+        margin-left: 5%;
+    }
+}

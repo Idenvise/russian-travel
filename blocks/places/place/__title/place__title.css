@@ -25,3 +25,8 @@
         font-size: 32px;
     }
 }
+@media screen and (max-width: 320px) {
+    .place__title {
+        margin-left: 5%;
+    }
+}
