@@ -24,7 +24,8 @@
         gap: 0;
     }
 }
-@media screen and (max-width: 320px) {
+
+@media screen and (max-width: 400px) {
     .place {
         grid-template-columns: 1fr;
         margin-bottom: 50px;

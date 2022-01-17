@@ -1,7 +1,7 @@
 .place__url {
     color: #aaa;
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 400px) {
     .place__url {
         margin: 0 0 12px 0;
     }

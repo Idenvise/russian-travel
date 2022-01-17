@@ -13,3 +13,18 @@
         font-size: 16px;
     }
 }
+@media screen and (max-width: 490px) and (min-width: 426px) {
+    .lead__subtitle {
+        font-size: 26px;
+    }
+}
+@media screen and (max-width: 425px) and (min-width: 386px) {
+    .lead__subtitle {
+        font-size: 23px;
+    }
+}
+@media screen and (max-width: 385px) and (min-width: 321px) {
+    .lead__subtitle {
+        font-size: 19px;
+    }
+}
