@@ -1,5 +1,9 @@
 .cover__background {
-    width: 100%;
+    width: 90%;
     opacity: 70%;
     transition: 0.2s linear;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }

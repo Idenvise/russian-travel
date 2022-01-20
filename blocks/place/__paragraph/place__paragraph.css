@@ -2,7 +2,7 @@
     color: #fff;
     font-size: 18px;
     line-height: 1.6;
-    margin-bottom: 1.6rem;
+    margin: 0 0 1.6rem;
 }
 @media screen and (max-width: 1024px) and (min-width: 769px) {
     .place__paragraph {
