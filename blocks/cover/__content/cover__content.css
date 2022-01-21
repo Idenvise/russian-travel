@@ -1,3 +1,4 @@
 .cover__content {
-  justify-self: center;
+  margin: 0 auto;
+  position: relative;
 }
