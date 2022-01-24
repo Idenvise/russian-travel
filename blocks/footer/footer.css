@@ -5,9 +5,15 @@
     margin: 92px auto 24px;
     box-sizing: content-box;
 }
-@media screen and (max-width: 1239px) and (min-width: 768px) {
+@media screen and (max-width: 1239px) and (min-width: 1024px) {
     .footer {
         margin: 88px auto 24px;
+        width: 90%;
+    }
+}
+@media screen and (max-width: 1023px) and (min-width: 768px) {
+    .footer {
+      width: 94%;
     }
 }
 @media screen and (max-width: 767px) {

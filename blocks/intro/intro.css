@@ -1,6 +1,6 @@
 .intro {
     margin: 92px auto 0;
-    width: 80%;
+    width: 77%;
 }
 @media screen and (max-width: 768px) and (min-width: 500px) {
     .intro {
@@ -8,15 +8,8 @@
         width: 95%;
     }
 }
-@media screen and (max-width: 1279px) and (min-width: 1024px) {
+@media screen and (max-width: 1279px) and (min-width: 769px) {
     .intro {
-        margin: 92px auto 0;
-        width: 90%;
-    }
-}
-@media screen and (max-width: 1023px) and (min-width: 769px) {
-    .intro {
-        margin: 92px auto 0;
         width: 90%;
     }
 }

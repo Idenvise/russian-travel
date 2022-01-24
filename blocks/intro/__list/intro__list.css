@@ -1,14 +1,20 @@
 .intro__list {
-list-style-type: none;
-margin: 33px 0 0;
-padding: 0;
-color: #fff;
-font-size: 12px;
-line-height: 1.5;
-font-weight: bold;
+  list-style-type: none;
+  margin: 33px 0 0;
+  padding: 0;
+  color: #fff;
+  font-size: 12px;
+  line-height: 1.5;
+  font-weight: bold;
+  max-width: 690px;
 }
 @media screen and (max-width: 320px) {
     .intro__list {
-        margin: 34px 0 0;
+      margin: 34px 0 0;
     }
+}
+@media screen and (max-width: 768px) and (min-width: 451px) {
+  .intro__list {
+    max-width: 720px;
+  }
 }

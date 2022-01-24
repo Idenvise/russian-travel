@@ -1,4 +1,10 @@
 .header__lang-links {
     display: flex;
     align-items: flex-end;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.header__lang-links:visited {
+  text-decoration: underline;
 }

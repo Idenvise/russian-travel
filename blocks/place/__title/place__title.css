@@ -5,11 +5,8 @@
     line-height: 1.05;
     color: #fff;
     margin: 0 0 48px;
-    position: relative;
-    top: 0;
-    left: 0;
 }
-@media screen and (max-width: 1110px) and (min-width: 769px) {
+@media screen and (max-width: 1023px) and (min-width: 769px) {
     .place__title {
         font-size: 57px;
     }
@@ -17,6 +14,7 @@
 @media screen and (max-width: 768px) and (min-width: 551px) {
     .place__title {
         font-size: 42px;
+        line-height: 1.1;
     }
 }
 @media screen and (max-width: 550px) and (min-width: 401px) {
@@ -33,5 +31,6 @@
 @media screen and (max-width: 320px) {
     .place__title {
         margin-left: 5%;
+        line-height: 1.09;
     }
 }
