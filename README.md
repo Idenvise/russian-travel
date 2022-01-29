@@ -12,6 +12,6 @@
 5. Grid layout
 6. Flex-box
 
-На данный момент проект проходит ревью и будет дорабатываться.
+На данный момент проект завершён.
 
 https://idenvise.github.io/russian-travel/
